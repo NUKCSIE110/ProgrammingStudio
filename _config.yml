@@ -1,1 +1,6 @@
 theme: jekyll-theme-minimal
+timezone: Asia/Taiwan
+
+name: NUKCSIE110-ProgrammingStudio
+description: Coding your life
+url: https://nukcsie110.github.io/ProgrammingStudio/
