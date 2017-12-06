@@ -1,4 +1,7 @@
+<<<<<<< HEAD
+=======
 
+>>>>>>> 265e059def9a2e5c8b3285038f75cfd953a64b26
 ## Home Page
 
 You can use the [editor on GitHub](https://github.com/NUKCSIE110/ProgrammingStudio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
