@@ -1,5 +1,5 @@
 ---
-title: BubbleSort
+title: BianrySearch
 layout: dafault
 ---
 
