@@ -2,7 +2,7 @@
 title: NUKCSIE110
 layout: default
 ---
-<iframe src="https://calendar.google.com/calendar/embed?src=nuk.edu.tw_anjgolshrjmlc2f336tfptduks%40group.calendar.google.com&ctz=Asia%2FTaipei" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=nuk.edu.tw_anjgolshrjmlc2f336tfptduks%40group.calendar.google.com&ctz=Asia%2FTaipei" style="border: 0" width="600" height="400" frameborder="0" scrolling="no"></iframe>
 
 # 程設讀書會說明
 
