@@ -1,6 +1,6 @@
 ---
 title: NUKCSIE110
-layout: defaule
+layout: default
 ---
 
 # 程設讀書會說明
