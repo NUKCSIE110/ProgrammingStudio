@@ -2,7 +2,7 @@
 layout: default
 title: Homework
 ---
-![](/assets/images/cheer.png)
+![](https://nukcsie110.github.io/ProgrammingStudio/assets/images/cheer.png)
 # 功課看這裡
 上傳題號就是UVAxxxxx
 ##   2017/12
