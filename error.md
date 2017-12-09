@@ -5,6 +5,7 @@ layout: default
 
 ## 1.為什麼我的pow()不能用  
 > **pow:模稜兩可的呼叫多載函式**  
+  
 pow()函式在C99的定義是  
 {% highlight cpp %}
 double pow  (double base, double exponent);
