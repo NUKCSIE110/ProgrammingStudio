@@ -8,7 +8,7 @@ layout: default
 <br>
 <br>
 <br>
-![](../assets/images/santa.png)
+![](https://nukcsie110.github.io/ProgrammingStudio/assets/images/santa.png)
 # 功課看這裡
 上傳題號就是UVAxxxxx
 ##   2017/12
