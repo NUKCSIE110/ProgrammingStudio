@@ -1,6 +1,6 @@
 ---
-layout: default
 title: Homework
+layout: default
 ---
 > ##### **未來是自己的，你認真練程式，就會有回報的，孩子們加油R**
 > ##### **By 小勛**
