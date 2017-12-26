@@ -4,7 +4,9 @@ layout: default
 ---
 ## 2017年哪個程式語言最賺錢
 ![](https://nukcsie110.github.io/ProgrammingStudio/assets/images/money.jpg)
-
+  
+<br>
+## 2017年哪個程式語言最夯
 > The following data is from  
 > https://www.tiobe.com/tiobe-index/
 
@@ -214,7 +216,7 @@ layout: default
 		</tr>
 	</tbody>
 </table>
-## 2017年哪個程式語言最夯
+
   
 ![](https://nukcsie110.github.io/ProgrammingStudio/assets/images/index2017.png)
 <style>
