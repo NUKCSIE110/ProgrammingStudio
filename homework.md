@@ -5,10 +5,7 @@ layout: default
 > 未來是自己的，你認真練程式，就會有回報的，孩子們加油R  
 > By 小勛
 
-<br>
-<br>
-<br>
-<img src="https://nukcsie110.github.io/ProgrammingStudio/assets/images/santa.png" alt="Santa" style="width: 400px;height:307;"/>  
+
   
 # 功課看這裡
 上傳題號就是UVAxxxxx
