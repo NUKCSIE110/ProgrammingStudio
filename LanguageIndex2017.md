@@ -56,7 +56,7 @@ layout: default
 			<td>5</td>
 			<td>6</td>
 			<td>
-				<img src="https://github.com/NUKCSIE110/ProgrammingStudio/blob/master/assets/images/up.png" alt="change">
+				<img src="https://nukcsie110.github.io/ProgrammingStudio/assets/images/up.png" alt="change">
 			</td>
 			<td>C#</td>
 			<td>2.822%</td>
@@ -66,7 +66,7 @@ layout: default
 			<td>6</td>
 			<td>8</td>
 			<td>
-				<img src="https://github.com/NUKCSIE110/ProgrammingStudio/blob/master/assets/images/up.png" alt="change">
+				<img src="https://nukcsie110.github.io/ProgrammingStudio/assets/images/up.png" alt="change">
 			</td>
 			<td>JavaScript</td>
 			<td>2.474%</td>
@@ -76,7 +76,7 @@ layout: default
 			<td>7</td>
 			<td>5</td>
 			<td>
-				<img src="https://github.com/NUKCSIE110/ProgrammingStudio/blob/master/assets/images/down.png" alt="change">
+				<img src="https://nukcsie110.github.io/ProgrammingStudio/assets/images/down.png" alt="change">
 			</td>
 			<td>Visual Basic .NET</td>
 			<td>2.471%</td>
@@ -86,7 +86,7 @@ layout: default
 			<td>8</td>
 			<td>17</td>
 			<td>
-				<img src="https://github.com/NUKCSIE110/ProgrammingStudio/blob/master/assets/images/upup.png" alt="change">
+				<img src="https://nukcsie110.github.io/ProgrammingStudio/assets/images/upup.png" alt="change">
 			</td>
 			<td>R</td>
 			<td>1.906%</td>
@@ -96,7 +96,7 @@ layout: default
 			<td>9</td>
 			<td>7</td>
 			<td>
-				<img src="https://github.com/NUKCSIE110/ProgrammingStudio/blob/master/assets/images/down.png" alt="change">
+				<img src="https://nukcsie110.github.io/ProgrammingStudio/assets/images/down.png" alt="change">
 			</td>
 			<td>PHP</td>
 			<td>1.590%</td>
@@ -106,7 +106,7 @@ layout: default
 			<td>10</td>
 			<td>18</td>
 			<td>
-				<img src="https://github.com/NUKCSIE110/ProgrammingStudio/blob/master/assets/images/upup.png" alt="change">
+				<img src="https://nukcsie110.github.io/ProgrammingStudio/assets/images/upup.png" alt="change">
 			</td>
 			<td>MATLAB</td>
 			<td>1.569%</td>
@@ -116,7 +116,7 @@ layout: default
 			<td>11</td>
 			<td>13</td>
 			<td>
-				<img src="https://github.com/NUKCSIE110/ProgrammingStudio/blob/master/assets/images/up.png" alt="change">
+				<img src="https://nukcsie110.github.io/ProgrammingStudio/assets/images/up.png" alt="change">
 			</td>
 			<td>Swift</td>
 			<td>1.566%</td>
@@ -126,7 +126,7 @@ layout: default
 			<td>12</td>
 			<td>11</td>
 			<td>
-				<img src="https://github.com/NUKCSIE110/ProgrammingStudio/blob/master/assets/images/down.png" alt="change">
+				<img src="https://nukcsie110.github.io/ProgrammingStudio/assets/images/down.png" alt="change">
 			</td>
 			<td>Objective-C</td>
 			<td>1.497%</td>
@@ -136,7 +136,7 @@ layout: default
 			<td>13</td>
 			<td>9</td>
 			<td>
-				<img src="https://github.com/NUKCSIE110/ProgrammingStudio/blob/master/assets/images/downdown.png" alt="change">
+				<img src="https://nukcsie110.github.io/ProgrammingStudio/assets/images/downdown.png" alt="change">
 			</td>
 			<td>Assembly language</td>
 			<td>1.471%</td>
@@ -146,7 +146,7 @@ layout: default
 			<td>14</td>
 			<td>10</td>
 			<td>
-				<img src="https://github.com/NUKCSIE110/ProgrammingStudio/blob/master/assets/images/downdown.png" alt="change">
+				<img src="https://nukcsie110.github.io/ProgrammingStudio/assets/images/downdown.png" alt="change">
 			</td>
 			<td>Perl</td>
 			<td>1.437%</td>
@@ -156,7 +156,7 @@ layout: default
 			<td>15</td>
 			<td>12</td>
 			<td>
-				<img src="https://github.com/NUKCSIE110/ProgrammingStudio/blob/master/assets/images/down.png" alt="change">
+				<img src="https://nukcsie110.github.io/ProgrammingStudio/assets/images/down.png" alt="change">
 			</td>
 			<td>Ruby</td>
 			<td>1.424%</td>
@@ -166,7 +166,7 @@ layout: default
 			<td>16</td>
 			<td>15</td>
 			<td>
-				<img src="https://github.com/NUKCSIE110/ProgrammingStudio/blob/master/assets/images/down.png" alt="change">
+				<img src="https://nukcsie110.github.io/ProgrammingStudio/assets/images/down.png" alt="change">
 			</td>
 			<td>Delphi/Object Pascal</td>
 			<td>1.395%</td>
@@ -176,7 +176,7 @@ layout: default
 			<td>17</td>
 			<td>16</td>
 			<td>
-				<img src="https://github.com/NUKCSIE110/ProgrammingStudio/blob/master/assets/images/down.png" alt="change">
+				<img src="https://nukcsie110.github.io/ProgrammingStudio/assets/images/down.png" alt="change">
 			</td>
 			<td>Go</td>
 			<td>1.387%</td>
@@ -186,7 +186,7 @@ layout: default
 			<td>18</td>
 			<td>25</td>
 			<td>
-				<img src="https://github.com/NUKCSIE110/ProgrammingStudio/blob/master/assets/images/upup.png" alt="change">
+				<img src="https://nukcsie110.github.io/ProgrammingStudio/assets/images/upup.png" alt="change">
 			</td>
 			<td>Scratch</td>
 			<td>1.374%</td>
@@ -196,7 +196,7 @@ layout: default
 			<td>19</td>
 			<td>20</td>
 			<td>
-				<img src="https://github.com/NUKCSIE110/ProgrammingStudio/blob/master/assets/images/up.png" alt="change">
+				<img src="https://nukcsie110.github.io/ProgrammingStudio/assets/images/up.png" alt="change">
 			</td>
 			<td>PL/SQL</td>
 			<td>1.368%</td>
@@ -206,7 +206,7 @@ layout: default
 			<td>20</td>
 			<td>14</td>
 			<td>
-				<img src="https://github.com/NUKCSIE110/ProgrammingStudio/blob/master/assets/images/downdown.png" alt="change">
+				<img src="https://nukcsie110.github.io/ProgrammingStudio/assets/images/downdown.png" alt="change">
 			</td>
 			<td>Visual Basic</td>
 			<td>1.347%</td>
@@ -215,7 +215,7 @@ layout: default
 	</tbody>
 </table>
   
-![](https://github.com/NUKCSIE110/ProgrammingStudio/blob/master/assets/images/index2017.png)
+![](https://nukcsie110.github.io/ProgrammingStudio/assets/images/index2017.png)
 <style>
 
 td, th{
