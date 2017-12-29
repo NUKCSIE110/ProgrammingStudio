@@ -2,7 +2,6 @@
 title: NUKCSIE110
 layout: default
 ---
-<br>
 # **[2017程式語言排行榜](https://nukcsie110.github.io/ProgrammingStudio/LanguageIndex2017)**
 <br>
 <hr>
