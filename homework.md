@@ -15,6 +15,7 @@ layout: default
 *   20171222<a href="https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1130" target="_blank"> UVA10189</a>.<br>
 *   20171225<a href="https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2412" target="_blank"> UVA11417</a>.<br>
 *   20171229<a href="https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1872" target="_blank"> UVA10931</a>.<br>
+<!--
 ##   2018/01
-*   20180101<a href="https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1356" target="_blank"> UVA10415</a>.<br>
-
+*   20180105<a href="https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1356" target="_blank"> UVA10415</a>.<br>
+-->
