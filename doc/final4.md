@@ -1,3 +1,8 @@
+---
+title : 期末考第四題
+layout : default
+---
+
 ``` c++
 #include<stdio.h>
 #include<stdlib.h>

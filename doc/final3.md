@@ -1,3 +1,8 @@
+---
+title : 期末考第三題
+layout : default
+---
+
 ``` c++
 
 #include<stdio.h>
