@@ -26,3 +26,5 @@ layout: default
 * 20180205<a href="https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2456" target="_blank"> UVA11461</a>.<br>
 * 20180210<a href="https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=13&page=show_problem&problem=1042" target="_blank"> UVA10101</a>.<br>
 * 20180213<a href="https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1361" target="_blank"> UVA10420</a>.<br>
+* 20180226<a href="https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2307" target="_blank"> UVA11332</a>.<br>
+
