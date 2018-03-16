@@ -31,3 +31,4 @@ layout: default
 ## 2018/03
 * 20180303<a href="https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=889" target="_blank"> UVA948</a>.<br>
 * 20180305<a href="https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1183" target="_blank"> UVA10242</a>.<br>
+* 20180316<a href="https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=949" target="_blank"> UVA10008</a>.<br>
