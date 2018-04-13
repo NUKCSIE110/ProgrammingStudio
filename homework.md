@@ -35,3 +35,4 @@ layout: default
 
 ## 2018/04
 * 20180408<a href="https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=431" target="_blank"> UVA490</a>.<br>
+* 20180413<a href="https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1193" target="_blank"> UVA10252</a>.<br>
